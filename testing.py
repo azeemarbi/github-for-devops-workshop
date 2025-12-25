@@ -5,5 +5,6 @@ b =20
 c = a+b
 print("value of a+b =c",c)
 
+print("github configurtion completed successfully")
     
 
